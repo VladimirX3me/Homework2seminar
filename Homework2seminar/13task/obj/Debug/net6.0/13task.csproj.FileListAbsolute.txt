@@ -1,0 +1,15 @@
+E:\MainGB\Homework2seminar\13task\bin\Debug\net6.0\13task.exe
+E:\MainGB\Homework2seminar\13task\bin\Debug\net6.0\13task.deps.json
+E:\MainGB\Homework2seminar\13task\bin\Debug\net6.0\13task.runtimeconfig.json
+E:\MainGB\Homework2seminar\13task\bin\Debug\net6.0\13task.dll
+E:\MainGB\Homework2seminar\13task\bin\Debug\net6.0\13task.pdb
+E:\MainGB\Homework2seminar\13task\obj\Debug\net6.0\13task.csproj.AssemblyReference.cache
+E:\MainGB\Homework2seminar\13task\obj\Debug\net6.0\13task.GeneratedMSBuildEditorConfig.editorconfig
+E:\MainGB\Homework2seminar\13task\obj\Debug\net6.0\13task.AssemblyInfoInputs.cache
+E:\MainGB\Homework2seminar\13task\obj\Debug\net6.0\13task.AssemblyInfo.cs
+E:\MainGB\Homework2seminar\13task\obj\Debug\net6.0\13task.csproj.CoreCompileInputs.cache
+E:\MainGB\Homework2seminar\13task\obj\Debug\net6.0\13task.dll
+E:\MainGB\Homework2seminar\13task\obj\Debug\net6.0\refint\13task.dll
+E:\MainGB\Homework2seminar\13task\obj\Debug\net6.0\13task.pdb
+E:\MainGB\Homework2seminar\13task\obj\Debug\net6.0\13task.genruntimeconfig.cache
+E:\MainGB\Homework2seminar\13task\obj\Debug\net6.0\ref\13task.dll

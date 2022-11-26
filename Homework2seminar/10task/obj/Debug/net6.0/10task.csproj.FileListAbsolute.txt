@@ -1,0 +1,15 @@
+E:\MainGB\Homework2seminar\10task\bin\Debug\net6.0\10task.exe
+E:\MainGB\Homework2seminar\10task\bin\Debug\net6.0\10task.deps.json
+E:\MainGB\Homework2seminar\10task\bin\Debug\net6.0\10task.runtimeconfig.json
+E:\MainGB\Homework2seminar\10task\bin\Debug\net6.0\10task.dll
+E:\MainGB\Homework2seminar\10task\bin\Debug\net6.0\10task.pdb
+E:\MainGB\Homework2seminar\10task\obj\Debug\net6.0\10task.csproj.AssemblyReference.cache
+E:\MainGB\Homework2seminar\10task\obj\Debug\net6.0\10task.GeneratedMSBuildEditorConfig.editorconfig
+E:\MainGB\Homework2seminar\10task\obj\Debug\net6.0\10task.AssemblyInfoInputs.cache
+E:\MainGB\Homework2seminar\10task\obj\Debug\net6.0\10task.AssemblyInfo.cs
+E:\MainGB\Homework2seminar\10task\obj\Debug\net6.0\10task.csproj.CoreCompileInputs.cache
+E:\MainGB\Homework2seminar\10task\obj\Debug\net6.0\10task.dll
+E:\MainGB\Homework2seminar\10task\obj\Debug\net6.0\refint\10task.dll
+E:\MainGB\Homework2seminar\10task\obj\Debug\net6.0\10task.pdb
+E:\MainGB\Homework2seminar\10task\obj\Debug\net6.0\10task.genruntimeconfig.cache
+E:\MainGB\Homework2seminar\10task\obj\Debug\net6.0\ref\10task.dll
