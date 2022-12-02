@@ -1,0 +1,15 @@
+E:\MainGB\HW3Seminar\21Task\bin\Debug\net6.0\21Task.exe
+E:\MainGB\HW3Seminar\21Task\bin\Debug\net6.0\21Task.deps.json
+E:\MainGB\HW3Seminar\21Task\bin\Debug\net6.0\21Task.runtimeconfig.json
+E:\MainGB\HW3Seminar\21Task\bin\Debug\net6.0\21Task.dll
+E:\MainGB\HW3Seminar\21Task\bin\Debug\net6.0\21Task.pdb
+E:\MainGB\HW3Seminar\21Task\obj\Debug\net6.0\21Task.csproj.AssemblyReference.cache
+E:\MainGB\HW3Seminar\21Task\obj\Debug\net6.0\21Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\MainGB\HW3Seminar\21Task\obj\Debug\net6.0\21Task.AssemblyInfoInputs.cache
+E:\MainGB\HW3Seminar\21Task\obj\Debug\net6.0\21Task.AssemblyInfo.cs
+E:\MainGB\HW3Seminar\21Task\obj\Debug\net6.0\21Task.csproj.CoreCompileInputs.cache
+E:\MainGB\HW3Seminar\21Task\obj\Debug\net6.0\21Task.dll
+E:\MainGB\HW3Seminar\21Task\obj\Debug\net6.0\refint\21Task.dll
+E:\MainGB\HW3Seminar\21Task\obj\Debug\net6.0\21Task.pdb
+E:\MainGB\HW3Seminar\21Task\obj\Debug\net6.0\21Task.genruntimeconfig.cache
+E:\MainGB\HW3Seminar\21Task\obj\Debug\net6.0\ref\21Task.dll

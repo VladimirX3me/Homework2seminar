@@ -1,0 +1,15 @@
+E:\MainGB\HW3Seminar\23Task\bin\Debug\net6.0\23Task.exe
+E:\MainGB\HW3Seminar\23Task\bin\Debug\net6.0\23Task.deps.json
+E:\MainGB\HW3Seminar\23Task\bin\Debug\net6.0\23Task.runtimeconfig.json
+E:\MainGB\HW3Seminar\23Task\bin\Debug\net6.0\23Task.dll
+E:\MainGB\HW3Seminar\23Task\bin\Debug\net6.0\23Task.pdb
+E:\MainGB\HW3Seminar\23Task\obj\Debug\net6.0\23Task.csproj.AssemblyReference.cache
+E:\MainGB\HW3Seminar\23Task\obj\Debug\net6.0\23Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\MainGB\HW3Seminar\23Task\obj\Debug\net6.0\23Task.AssemblyInfoInputs.cache
+E:\MainGB\HW3Seminar\23Task\obj\Debug\net6.0\23Task.AssemblyInfo.cs
+E:\MainGB\HW3Seminar\23Task\obj\Debug\net6.0\23Task.csproj.CoreCompileInputs.cache
+E:\MainGB\HW3Seminar\23Task\obj\Debug\net6.0\23Task.dll
+E:\MainGB\HW3Seminar\23Task\obj\Debug\net6.0\refint\23Task.dll
+E:\MainGB\HW3Seminar\23Task\obj\Debug\net6.0\23Task.pdb
+E:\MainGB\HW3Seminar\23Task\obj\Debug\net6.0\23Task.genruntimeconfig.cache
+E:\MainGB\HW3Seminar\23Task\obj\Debug\net6.0\ref\23Task.dll
