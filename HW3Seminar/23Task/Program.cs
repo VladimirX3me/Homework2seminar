@@ -5,9 +5,9 @@
 Console.Clear();
 
 Console.WriteLine("Введите число a");
-int a = int.Parse(Console.ReadLine());
+int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число b");
-int b = int.Parse(Console.ReadLine());
+int b = Convert.ToInt32(Console.ReadLine());
 while (a <= b)
 {
     Console.WriteLine((a * a * a));
