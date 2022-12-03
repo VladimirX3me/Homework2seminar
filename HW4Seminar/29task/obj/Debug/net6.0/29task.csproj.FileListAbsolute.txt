@@ -1,0 +1,15 @@
+E:\MainGB\HW4Seminar\29task\bin\Debug\net6.0\29task.exe
+E:\MainGB\HW4Seminar\29task\bin\Debug\net6.0\29task.deps.json
+E:\MainGB\HW4Seminar\29task\bin\Debug\net6.0\29task.runtimeconfig.json
+E:\MainGB\HW4Seminar\29task\bin\Debug\net6.0\29task.dll
+E:\MainGB\HW4Seminar\29task\bin\Debug\net6.0\29task.pdb
+E:\MainGB\HW4Seminar\29task\obj\Debug\net6.0\29task.csproj.AssemblyReference.cache
+E:\MainGB\HW4Seminar\29task\obj\Debug\net6.0\29task.GeneratedMSBuildEditorConfig.editorconfig
+E:\MainGB\HW4Seminar\29task\obj\Debug\net6.0\29task.AssemblyInfoInputs.cache
+E:\MainGB\HW4Seminar\29task\obj\Debug\net6.0\29task.AssemblyInfo.cs
+E:\MainGB\HW4Seminar\29task\obj\Debug\net6.0\29task.csproj.CoreCompileInputs.cache
+E:\MainGB\HW4Seminar\29task\obj\Debug\net6.0\29task.dll
+E:\MainGB\HW4Seminar\29task\obj\Debug\net6.0\refint\29task.dll
+E:\MainGB\HW4Seminar\29task\obj\Debug\net6.0\29task.pdb
+E:\MainGB\HW4Seminar\29task\obj\Debug\net6.0\29task.genruntimeconfig.cache
+E:\MainGB\HW4Seminar\29task\obj\Debug\net6.0\ref\29task.dll
