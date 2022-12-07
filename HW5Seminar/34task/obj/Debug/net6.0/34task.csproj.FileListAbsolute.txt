@@ -1,0 +1,15 @@
+E:\MainGB\HW5Seminar\34task\bin\Debug\net6.0\34task.exe
+E:\MainGB\HW5Seminar\34task\bin\Debug\net6.0\34task.deps.json
+E:\MainGB\HW5Seminar\34task\bin\Debug\net6.0\34task.runtimeconfig.json
+E:\MainGB\HW5Seminar\34task\bin\Debug\net6.0\34task.dll
+E:\MainGB\HW5Seminar\34task\bin\Debug\net6.0\34task.pdb
+E:\MainGB\HW5Seminar\34task\obj\Debug\net6.0\34task.csproj.AssemblyReference.cache
+E:\MainGB\HW5Seminar\34task\obj\Debug\net6.0\34task.GeneratedMSBuildEditorConfig.editorconfig
+E:\MainGB\HW5Seminar\34task\obj\Debug\net6.0\34task.AssemblyInfoInputs.cache
+E:\MainGB\HW5Seminar\34task\obj\Debug\net6.0\34task.AssemblyInfo.cs
+E:\MainGB\HW5Seminar\34task\obj\Debug\net6.0\34task.csproj.CoreCompileInputs.cache
+E:\MainGB\HW5Seminar\34task\obj\Debug\net6.0\34task.dll
+E:\MainGB\HW5Seminar\34task\obj\Debug\net6.0\refint\34task.dll
+E:\MainGB\HW5Seminar\34task\obj\Debug\net6.0\34task.pdb
+E:\MainGB\HW5Seminar\34task\obj\Debug\net6.0\34task.genruntimeconfig.cache
+E:\MainGB\HW5Seminar\34task\obj\Debug\net6.0\ref\34task.dll

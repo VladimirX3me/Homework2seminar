@@ -1,0 +1,15 @@
+E:\MainGB\HW5Seminar\36task\obj\Debug\net6.0\36task.csproj.AssemblyReference.cache
+E:\MainGB\HW5Seminar\36task\obj\Debug\net6.0\36task.GeneratedMSBuildEditorConfig.editorconfig
+E:\MainGB\HW5Seminar\36task\obj\Debug\net6.0\36task.AssemblyInfoInputs.cache
+E:\MainGB\HW5Seminar\36task\obj\Debug\net6.0\36task.AssemblyInfo.cs
+E:\MainGB\HW5Seminar\36task\obj\Debug\net6.0\36task.csproj.CoreCompileInputs.cache
+E:\MainGB\HW5Seminar\36task\bin\Debug\net6.0\36task.exe
+E:\MainGB\HW5Seminar\36task\bin\Debug\net6.0\36task.deps.json
+E:\MainGB\HW5Seminar\36task\bin\Debug\net6.0\36task.runtimeconfig.json
+E:\MainGB\HW5Seminar\36task\bin\Debug\net6.0\36task.dll
+E:\MainGB\HW5Seminar\36task\bin\Debug\net6.0\36task.pdb
+E:\MainGB\HW5Seminar\36task\obj\Debug\net6.0\36task.dll
+E:\MainGB\HW5Seminar\36task\obj\Debug\net6.0\refint\36task.dll
+E:\MainGB\HW5Seminar\36task\obj\Debug\net6.0\36task.pdb
+E:\MainGB\HW5Seminar\36task\obj\Debug\net6.0\36task.genruntimeconfig.cache
+E:\MainGB\HW5Seminar\36task\obj\Debug\net6.0\ref\36task.dll
