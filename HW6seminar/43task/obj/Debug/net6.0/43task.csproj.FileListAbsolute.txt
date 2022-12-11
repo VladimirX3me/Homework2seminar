@@ -1,0 +1,15 @@
+I:\QA Learning\HW6seminar\43task\bin\Debug\net6.0\43task.exe
+I:\QA Learning\HW6seminar\43task\bin\Debug\net6.0\43task.deps.json
+I:\QA Learning\HW6seminar\43task\bin\Debug\net6.0\43task.runtimeconfig.json
+I:\QA Learning\HW6seminar\43task\bin\Debug\net6.0\43task.dll
+I:\QA Learning\HW6seminar\43task\bin\Debug\net6.0\43task.pdb
+I:\QA Learning\HW6seminar\43task\obj\Debug\net6.0\43task.csproj.AssemblyReference.cache
+I:\QA Learning\HW6seminar\43task\obj\Debug\net6.0\43task.GeneratedMSBuildEditorConfig.editorconfig
+I:\QA Learning\HW6seminar\43task\obj\Debug\net6.0\43task.AssemblyInfoInputs.cache
+I:\QA Learning\HW6seminar\43task\obj\Debug\net6.0\43task.AssemblyInfo.cs
+I:\QA Learning\HW6seminar\43task\obj\Debug\net6.0\43task.csproj.CoreCompileInputs.cache
+I:\QA Learning\HW6seminar\43task\obj\Debug\net6.0\43task.dll
+I:\QA Learning\HW6seminar\43task\obj\Debug\net6.0\refint\43task.dll
+I:\QA Learning\HW6seminar\43task\obj\Debug\net6.0\43task.pdb
+I:\QA Learning\HW6seminar\43task\obj\Debug\net6.0\43task.genruntimeconfig.cache
+I:\QA Learning\HW6seminar\43task\obj\Debug\net6.0\ref\43task.dll

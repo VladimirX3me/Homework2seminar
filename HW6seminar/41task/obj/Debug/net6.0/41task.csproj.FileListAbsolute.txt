@@ -1,0 +1,15 @@
+I:\QA Learning\HW6seminar\41task\bin\Debug\net6.0\41task.exe
+I:\QA Learning\HW6seminar\41task\bin\Debug\net6.0\41task.deps.json
+I:\QA Learning\HW6seminar\41task\bin\Debug\net6.0\41task.runtimeconfig.json
+I:\QA Learning\HW6seminar\41task\bin\Debug\net6.0\41task.dll
+I:\QA Learning\HW6seminar\41task\bin\Debug\net6.0\41task.pdb
+I:\QA Learning\HW6seminar\41task\obj\Debug\net6.0\41task.csproj.AssemblyReference.cache
+I:\QA Learning\HW6seminar\41task\obj\Debug\net6.0\41task.GeneratedMSBuildEditorConfig.editorconfig
+I:\QA Learning\HW6seminar\41task\obj\Debug\net6.0\41task.AssemblyInfoInputs.cache
+I:\QA Learning\HW6seminar\41task\obj\Debug\net6.0\41task.AssemblyInfo.cs
+I:\QA Learning\HW6seminar\41task\obj\Debug\net6.0\41task.csproj.CoreCompileInputs.cache
+I:\QA Learning\HW6seminar\41task\obj\Debug\net6.0\41task.dll
+I:\QA Learning\HW6seminar\41task\obj\Debug\net6.0\refint\41task.dll
+I:\QA Learning\HW6seminar\41task\obj\Debug\net6.0\41task.pdb
+I:\QA Learning\HW6seminar\41task\obj\Debug\net6.0\41task.genruntimeconfig.cache
+I:\QA Learning\HW6seminar\41task\obj\Debug\net6.0\ref\41task.dll
