@@ -1,0 +1,15 @@
+E:\MainGB\Homeworks\HW7Seminar\2task\bin\Debug\net6.0\2task.exe
+E:\MainGB\Homeworks\HW7Seminar\2task\bin\Debug\net6.0\2task.deps.json
+E:\MainGB\Homeworks\HW7Seminar\2task\bin\Debug\net6.0\2task.runtimeconfig.json
+E:\MainGB\Homeworks\HW7Seminar\2task\bin\Debug\net6.0\2task.dll
+E:\MainGB\Homeworks\HW7Seminar\2task\bin\Debug\net6.0\2task.pdb
+E:\MainGB\Homeworks\HW7Seminar\2task\obj\Debug\net6.0\2task.csproj.AssemblyReference.cache
+E:\MainGB\Homeworks\HW7Seminar\2task\obj\Debug\net6.0\2task.GeneratedMSBuildEditorConfig.editorconfig
+E:\MainGB\Homeworks\HW7Seminar\2task\obj\Debug\net6.0\2task.AssemblyInfoInputs.cache
+E:\MainGB\Homeworks\HW7Seminar\2task\obj\Debug\net6.0\2task.AssemblyInfo.cs
+E:\MainGB\Homeworks\HW7Seminar\2task\obj\Debug\net6.0\2task.csproj.CoreCompileInputs.cache
+E:\MainGB\Homeworks\HW7Seminar\2task\obj\Debug\net6.0\2task.dll
+E:\MainGB\Homeworks\HW7Seminar\2task\obj\Debug\net6.0\refint\2task.dll
+E:\MainGB\Homeworks\HW7Seminar\2task\obj\Debug\net6.0\2task.pdb
+E:\MainGB\Homeworks\HW7Seminar\2task\obj\Debug\net6.0\2task.genruntimeconfig.cache
+E:\MainGB\Homeworks\HW7Seminar\2task\obj\Debug\net6.0\ref\2task.dll
