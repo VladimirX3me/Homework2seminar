@@ -1,0 +1,15 @@
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\obj\Debug\net6.0\3task.csproj.AssemblyReference.cache
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\obj\Debug\net6.0\3task.GeneratedMSBuildEditorConfig.editorconfig
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\obj\Debug\net6.0\3task.AssemblyInfoInputs.cache
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\obj\Debug\net6.0\3task.AssemblyInfo.cs
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\obj\Debug\net6.0\3task.csproj.CoreCompileInputs.cache
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\bin\Debug\net6.0\3task.exe
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\bin\Debug\net6.0\3task.deps.json
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\bin\Debug\net6.0\3task.runtimeconfig.json
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\bin\Debug\net6.0\3task.dll
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\bin\Debug\net6.0\3task.pdb
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\obj\Debug\net6.0\3task.dll
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\obj\Debug\net6.0\refint\3task.dll
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\obj\Debug\net6.0\3task.pdb
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\obj\Debug\net6.0\3task.genruntimeconfig.cache
+E:\MainGB\Homeworks\Homeworks\HW8Seminar\3task\obj\Debug\net6.0\ref\3task.dll
