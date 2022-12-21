@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MainGB\\Homeworks\\HW7Seminar\\2task\\2task.csproj": {}
+    "E:\\MainGB\\Homeworks\\Homeworks\\HW7Seminar\\2task\\2task.csproj": {}
   },
   "projects": {
-    "E:\\MainGB\\Homeworks\\HW7Seminar\\2task\\2task.csproj": {
+    "E:\\MainGB\\Homeworks\\Homeworks\\HW7Seminar\\2task\\2task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MainGB\\Homeworks\\HW7Seminar\\2task\\2task.csproj",
+        "projectUniqueName": "E:\\MainGB\\Homeworks\\Homeworks\\HW7Seminar\\2task\\2task.csproj",
         "projectName": "2task",
-        "projectPath": "E:\\MainGB\\Homeworks\\HW7Seminar\\2task\\2task.csproj",
+        "projectPath": "E:\\MainGB\\Homeworks\\Homeworks\\HW7Seminar\\2task\\2task.csproj",
         "packagesPath": "C:\\Users\\Diagnost\\.nuget\\packages\\",
-        "outputPath": "E:\\MainGB\\Homeworks\\HW7Seminar\\2task\\obj\\",
+        "outputPath": "E:\\MainGB\\Homeworks\\Homeworks\\HW7Seminar\\2task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diagnost\\AppData\\Roaming\\NuGet\\NuGet.Config"
